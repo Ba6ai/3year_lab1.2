@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\3\u041A\u0443\u0440\u0441\\\u0417\u041E\u0421\\lab1z2\\",
+  "WorkspaceRootPath": "C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\3\u041A\u0443\u0440\u0441\\\u0417\u041E\u0421\\3year_lab1.2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D47BF22-AB56-4F69-B239-6500EBCD83F8}|lab1z2.vcxproj|C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\3\u041A\u0443\u0440\u0441\\\u0417\u041E\u0421\\lab1z2\\lab1z2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7D47BF22-AB56-4F69-B239-6500EBCD83F8}|lab1z2.vcxproj|C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\3\u041A\u0443\u0440\u0441\\\u0417\u041E\u0421\\3year_lab1.2\\lab1z2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7D47BF22-AB56-4F69-B239-6500EBCD83F8}|lab1z2.vcxproj|solutionrelative:lab1z2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "lab1z2.cpp",
-              "DocumentMoniker": "C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\3\u041A\u0443\u0440\u0441\\\u0417\u041E\u0421\\lab1z2\\lab1z2.cpp",
+              "DocumentMoniker": "C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\3\u041A\u0443\u0440\u0441\\\u0417\u041E\u0421\\3year_lab1.2\\lab1z2.cpp",
               "RelativeDocumentMoniker": "lab1z2.cpp",
-              "ToolTip": "C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\3\u041A\u0443\u0440\u0441\\\u0417\u041E\u0421\\lab1z2\\lab1z2.cpp",
+              "ToolTip": "C:\\Users\\elise\\OneDrive\\\u0423\u041D\u0418\u041A\\3\u041A\u0443\u0440\u0441\\\u0417\u041E\u0421\\3year_lab1.2\\lab1z2.cpp",
               "RelativeToolTip": "lab1z2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-09-29T21:13:08.703Z",
               "EditorCaption": ""
